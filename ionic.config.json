@@ -1,0 +1,8 @@
+{
+  "name": "my-app2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5d973209"
+}
